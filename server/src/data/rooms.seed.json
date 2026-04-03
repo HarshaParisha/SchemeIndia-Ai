@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Exam Stress",
+    "category": "Support",
+    "description": "Talk about exams, pressure, and study routines."
+  },
+  {
+    "name": "Family Pressure",
+    "category": "Support",
+    "description": "A calm place for family expectations and conflict."
+  },
+  {
+    "name": "Career Confusion",
+    "category": "Support",
+    "description": "Discuss career paths, decisions, and doubts."
+  },
+  {
+    "name": "First Job Anxiety",
+    "category": "Support",
+    "description": "Support for interviews, workplace, and first-job stress."
+  },
+  {
+    "name": "General Support",
+    "category": "Support",
+    "description": "Anything on your mind. Kind, anonymous support."
+  },
+  {
+    "name": "Farmer Community",
+    "category": "Community",
+    "description": "Discuss crops, weather, schemes, and farming decisions."
+  }
+]

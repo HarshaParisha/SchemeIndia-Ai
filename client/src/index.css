@@ -1,0 +1,58 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --bc-bg: 248 250 249;
+  --bc-card: 255 255 255;
+  --bc-ink: 15 23 42;
+  --bc-muted: 71 85 105;
+  --bc-border: 226 232 240;
+  --bc-primary: 26 107 60;
+  --bc-accent: 29 78 216;
+  --bc-warn: 249 115 22;
+  --bc-shadow: 0 8px 24px rgba(15, 23, 42, 0.08);
+  --bc-shadow-soft: 0 2px 10px rgba(15, 23, 42, 0.06);
+  --bc-radius-card: 12px;
+  --bc-radius-control: 10px;
+
+  --bc-font-sans: "Gabarito", "Noto Sans Devanagari", ui-sans-serif, system-ui;
+  --bc-font-display: "Gabarito", "Noto Sans Devanagari", ui-sans-serif, system-ui;
+
+  color-scheme: light;
+}
+
+html,
+body {
+  height: 100%;
+}
+
+body {
+  font-family: var(--bc-font-sans);
+  line-height: 1.55;
+  font-weight: 420;
+  color: rgb(var(--bc-ink));
+  background: rgb(var(--bc-bg));
+  font-synthesis: none;
+  text-rendering: geometricPrecision;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+::selection {
+  background: rgba(26, 107, 60, 0.18);
+}
+
+:where(a, button, input, textarea, select):focus-visible {
+  outline: 2px solid rgba(26, 107, 60, 0.55);
+  outline-offset: 2px;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  * {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+    scroll-behavior: auto !important;
+  }
+}

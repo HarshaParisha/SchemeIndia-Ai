@@ -1,0 +1,40 @@
+{
+  "name": "bharatcare-server",
+  "private": true,
+  "type": "module",
+  "version": "0.1.0",
+  "scripts": {
+    "dev": "tsx watch src/server.ts",
+    "build": "tsc -p tsconfig.json",
+    "start": "node dist/server.js",
+    "check": "tsc -p tsconfig.json --noEmit",
+    "seed:schemeindia": "tsx src/scripts/seedSchemeIndia.ts",
+    "seed:supabase:schemes": "tsx --tsconfig ../tsconfig.scripts.json scripts/seedSupabaseSchemes.ts"
+  },
+  "dependencies": {
+    "@clerk/express": "^1.5.0",
+    "@supabase/supabase-js": "^2.101.1",
+    "axios": "^1.7.7",
+    "compression": "^1.7.4",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "groq-sdk": "^0.7.0",
+    "helmet": "^7.1.0",
+    "mongoose": "^8.9.0",
+    "multer": "^1.4.5-lts.1",
+    "pdf-parse": "^1.1.1",
+    "socket.io": "^4.8.1",
+    "tesseract.js": "^5.1.0",
+    "zod": "^3.23.8"
+  },
+  "devDependencies": {
+    "@types/compression": "^1.7.5",
+    "@types/cors": "^2.8.17",
+    "@types/express": "^4.17.21",
+    "@types/multer": "^1.4.12",
+    "@types/node": "^22.10.2",
+    "tsx": "^4.19.2",
+    "typescript": "^5.7.2"
+  }
+}

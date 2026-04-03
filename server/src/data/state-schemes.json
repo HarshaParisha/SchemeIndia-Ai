@@ -1,0 +1,157 @@
+[
+  { "id": "ts-rythu-bandhu", "name": "Rythu Bandhu (Telangana)", "governmentLevel": "state", "state": "Telangana", "ministry": "Government of Telangana", "category": "Agriculture" },
+  { "id": "ts-aasara-pension", "name": "Aasara Pension (Telangana)", "governmentLevel": "state", "state": "Telangana", "ministry": "Government of Telangana", "category": "Pension" },
+  { "id": "ts-kcr-kit", "name": "KCR Kit (Telangana)", "governmentLevel": "state", "state": "Telangana", "ministry": "Government of Telangana", "category": "Health" },
+  { "id": "ts-epass", "name": "TS ePass Scholarship (Telangana)", "governmentLevel": "state", "state": "Telangana", "ministry": "Government of Telangana", "category": "Education" },
+  { "id": "ts-pride", "name": "TS PRIDE (Telangana)", "governmentLevel": "state", "state": "Telangana", "ministry": "Government of Telangana", "category": "MSME" },
+  { "id": "ts-haritha-haram", "name": "Haritha Haram (Telangana)", "governmentLevel": "state", "state": "Telangana", "ministry": "Government of Telangana", "category": "Agriculture", "tags": ["environment"] },
+
+  { "id": "ap-ysr-rythu-bharosa", "name": "YSR Rythu Bharosa (Andhra Pradesh)", "governmentLevel": "state", "state": "Andhra Pradesh", "ministry": "Government of Andhra Pradesh", "category": "Agriculture" },
+  { "id": "ap-ysr-aarogyasri", "name": "YSR Aarogyasri (Andhra Pradesh)", "governmentLevel": "state", "state": "Andhra Pradesh", "ministry": "Government of Andhra Pradesh", "category": "Health" },
+  { "id": "ap-ammavodi", "name": "Ammavodi (Andhra Pradesh)", "governmentLevel": "state", "state": "Andhra Pradesh", "ministry": "Government of Andhra Pradesh", "category": "Education" },
+  { "id": "ap-vidya-deevena", "name": "Vidya Deevena (Andhra Pradesh)", "governmentLevel": "state", "state": "Andhra Pradesh", "ministry": "Government of Andhra Pradesh", "category": "Education" },
+  { "id": "ap-sunna-vaddi", "name": "Sunna Vaddi (Andhra Pradesh)", "governmentLevel": "state", "state": "Andhra Pradesh", "ministry": "Government of Andhra Pradesh", "category": "Finance" },
+
+  { "id": "mh-loan-waiver", "name": "Maharashtra Farm Loan Waiver Scheme", "governmentLevel": "state", "state": "Maharashtra", "ministry": "Government of Maharashtra", "category": "Agriculture" },
+  { "id": "mh-gharkul", "name": "Gharkul Housing Scheme (Maharashtra)", "governmentLevel": "state", "state": "Maharashtra", "ministry": "Government of Maharashtra", "category": "Housing" },
+  { "id": "mh-mahaswayam", "name": "MahaSwayam Employment Portal (Maharashtra)", "governmentLevel": "state", "state": "Maharashtra", "ministry": "Government of Maharashtra", "category": "Jobs" },
+
+  { "id": "ka-gruha-lakshmi", "name": "Gruha Lakshmi (Karnataka)", "governmentLevel": "state", "state": "Karnataka", "ministry": "Government of Karnataka", "category": "Women" },
+  { "id": "ka-shakti", "name": "Shakti Scheme (Karnataka)", "governmentLevel": "state", "state": "Karnataka", "ministry": "Government of Karnataka", "category": "Women" },
+  { "id": "ka-anna-bhagya", "name": "Anna Bhagya (Karnataka)", "governmentLevel": "state", "state": "Karnataka", "ministry": "Government of Karnataka", "category": "Food" },
+  { "id": "ka-yuva-nidhi", "name": "Yuva Nidhi (Karnataka)", "governmentLevel": "state", "state": "Karnataka", "ministry": "Government of Karnataka", "category": "Jobs" },
+
+  { "id": "tn-breakfast", "name": "Tamil Nadu Breakfast Scheme", "governmentLevel": "state", "state": "Tamil Nadu", "ministry": "Government of Tamil Nadu", "category": "Food" },
+  { "id": "tn-magalir-urimai", "name": "Magalir Urimai Thogai (Tamil Nadu)", "governmentLevel": "state", "state": "Tamil Nadu", "ministry": "Government of Tamil Nadu", "category": "Women" },
+  { "id": "tn-amma-scheme", "name": "Amma Scheme (Tamil Nadu)", "governmentLevel": "state", "state": "Tamil Nadu", "ministry": "Government of Tamil Nadu", "category": "Food" },
+  { "id": "tn-cmchis", "name": "Chief Minister's Comprehensive Health Insurance Scheme (Tamil Nadu)", "governmentLevel": "state", "state": "Tamil Nadu", "ministry": "Government of Tamil Nadu", "category": "Health" },
+  { "id": "tn-pudhumai-penn", "name": "Pudhumai Penn Scheme (Tamil Nadu)", "governmentLevel": "state", "state": "Tamil Nadu", "ministry": "Government of Tamil Nadu", "category": "Education", "tags": ["women"] },
+
+  { "id": "wb-kanyashree", "name": "Kanyashree Prakalpa (West Bengal)", "governmentLevel": "state", "state": "West Bengal", "ministry": "Government of West Bengal", "category": "Women" },
+  { "id": "wb-swasthya-sathi", "name": "Swasthya Sathi (West Bengal)", "governmentLevel": "state", "state": "West Bengal", "ministry": "Government of West Bengal", "category": "Health" },
+  { "id": "wb-rupashree", "name": "Rupashree Prakalpa (West Bengal)", "governmentLevel": "state", "state": "West Bengal", "ministry": "Government of West Bengal", "category": "Women" },
+  { "id": "wb-student-credit", "name": "West Bengal Student Credit Card Scheme", "governmentLevel": "state", "state": "West Bengal", "ministry": "Government of West Bengal", "category": "Education", "tags": ["loan"] },
+
+  { "id": "od-kalia", "name": "KALIA (Odisha)", "governmentLevel": "state", "state": "Odisha", "ministry": "Government of Odisha", "category": "Agriculture" },
+  { "id": "od-bsky", "name": "Biju Swasthya Kalyan Yojana (Odisha)", "governmentLevel": "state", "state": "Odisha", "ministry": "Government of Odisha", "category": "Health" },
+  { "id": "od-mission-shakti", "name": "Mission Shakti (Odisha)", "governmentLevel": "state", "state": "Odisha", "ministry": "Government of Odisha", "category": "Women" },
+
+  { "id": "br-student-credit", "name": "Bihar Student Credit Card Scheme", "governmentLevel": "state", "state": "Bihar", "ministry": "Government of Bihar", "category": "Education", "tags": ["loan"] },
+  { "id": "br-kanya-utthan", "name": "Mukhyamantri Kanya Utthan Yojana (Bihar)", "governmentLevel": "state", "state": "Bihar", "ministry": "Government of Bihar", "category": "Women" },
+  { "id": "br-kushal-yuva", "name": "Kushal Yuva Program (Bihar)", "governmentLevel": "state", "state": "Bihar", "ministry": "Government of Bihar", "category": "Skill" },
+
+  { "id": "up-kanya-sumangala", "name": "Mukhyamantri Kanya Sumangala Yojana (Uttar Pradesh)", "governmentLevel": "state", "state": "Uttar Pradesh", "ministry": "Government of Uttar Pradesh", "category": "Women" },
+  { "id": "up-scholarship", "name": "UP Scholarship Schemes (Uttar Pradesh)", "governmentLevel": "state", "state": "Uttar Pradesh", "ministry": "Government of Uttar Pradesh", "category": "Education" },
+  { "id": "up-old-age-pension", "name": "Old Age Pension Scheme (Uttar Pradesh)", "governmentLevel": "state", "state": "Uttar Pradesh", "ministry": "Government of Uttar Pradesh", "category": "Pension" },
+
+  { "id": "mp-ladli-laxmi", "name": "Ladli Laxmi Yojana (Madhya Pradesh)", "governmentLevel": "state", "state": "Madhya Pradesh", "ministry": "Government of Madhya Pradesh", "category": "Women" },
+  { "id": "mp-sambal", "name": "Mukhyamantri Jan Kalyan (Sambal) Yojana (Madhya Pradesh)", "governmentLevel": "state", "state": "Madhya Pradesh", "ministry": "Government of Madhya Pradesh", "category": "Jobs", "tags": ["worker"] },
+  { "id": "mp-kisan-kalyan", "name": "Mukhyamantri Kisan Kalyan Yojana (Madhya Pradesh)", "governmentLevel": "state", "state": "Madhya Pradesh", "ministry": "Government of Madhya Pradesh", "category": "Agriculture" },
+
+  { "id": "rj-chiranjeevi", "name": "Mukhyamantri Chiranjeevi Swasthya Bima Yojana (Rajasthan)", "governmentLevel": "state", "state": "Rajasthan", "ministry": "Government of Rajasthan", "category": "Health" },
+  { "id": "rj-bhamashah", "name": "Bhamashah Scheme (Rajasthan)", "governmentLevel": "state", "state": "Rajasthan", "ministry": "Government of Rajasthan", "category": "Finance" },
+  { "id": "rj-samuhik-vivah", "name": "Chief Minister Mass Marriage Scheme (Rajasthan)", "governmentLevel": "state", "state": "Rajasthan", "ministry": "Government of Rajasthan", "category": "Women" },
+
+  { "id": "gj-amrutum", "name": "Mukhyamantri Amrutum (MA) Yojana (Gujarat)", "governmentLevel": "state", "state": "Gujarat", "ministry": "Government of Gujarat", "category": "Health" },
+  { "id": "gj-maa-vatsalya", "name": "MAA Vatsalya Yojana (Gujarat)", "governmentLevel": "state", "state": "Gujarat", "ministry": "Government of Gujarat", "category": "Health" },
+  { "id": "gj-kanya-kelavani", "name": "Kanya Kelavani (Gujarat)", "governmentLevel": "state", "state": "Gujarat", "ministry": "Government of Gujarat", "category": "Education", "tags": ["women"] },
+
+  { "id": "kl-karunya", "name": "Karunya Arogya Suraksha Padhathi (Kerala)", "governmentLevel": "state", "state": "Kerala", "ministry": "Government of Kerala", "category": "Health" },
+  { "id": "kl-life-mission", "name": "LIFE Mission (Kerala)", "governmentLevel": "state", "state": "Kerala", "ministry": "Government of Kerala", "category": "Housing" },
+  { "id": "kl-egrantz", "name": "eGrantz Scholarship (Kerala)", "governmentLevel": "state", "state": "Kerala", "ministry": "Government of Kerala", "category": "Education" },
+
+  { "id": "pb-sarbat-sehat", "name": "Sarbat Sehat Bima Yojana (Punjab)", "governmentLevel": "state", "state": "Punjab", "ministry": "Government of Punjab", "category": "Health" },
+  { "id": "pb-ashirwad", "name": "Ashirwad Scheme (Punjab)", "governmentLevel": "state", "state": "Punjab", "ministry": "Government of Punjab", "category": "Women" },
+  { "id": "pb-atta-dal", "name": "Atta Dal Scheme (Punjab)", "governmentLevel": "state", "state": "Punjab", "ministry": "Government of Punjab", "category": "Food" },
+
+  { "id": "as-orunodoi", "name": "Orunodoi Scheme (Assam)", "governmentLevel": "state", "state": "Assam", "ministry": "Government of Assam", "category": "Finance" },
+  { "id": "as-atal-amrit", "name": "Atal Amrit Abhiyan (Assam)", "governmentLevel": "state", "state": "Assam", "ministry": "Government of Assam", "category": "Health" },
+  { "id": "as-arunodoi", "name": "Orunodoi 2.0 (Assam)", "governmentLevel": "state", "state": "Assam", "ministry": "Government of Assam", "category": "Finance" },
+
+  { "id": "jh-mukhyamantri-krishi", "name": "Mukhyamantri Krishi Ashirwad Yojana (Jharkhand)", "governmentLevel": "state", "state": "Jharkhand", "ministry": "Government of Jharkhand", "category": "Agriculture" },
+  { "id": "jh-scholarship", "name": "Post-Matric Scholarship (Jharkhand)", "governmentLevel": "state", "state": "Jharkhand", "ministry": "Government of Jharkhand", "category": "Education" },
+  { "id": "jh-maiya-samman", "name": "Maiya Samman Yojana (Jharkhand)", "governmentLevel": "state", "state": "Jharkhand", "ministry": "Government of Jharkhand", "category": "Women" },
+
+  { "id": "hr-chirayu", "name": "Chirayu Haryana", "governmentLevel": "state", "state": "Haryana", "ministry": "Government of Haryana", "category": "Health" },
+  { "id": "hr-old-age", "name": "Old Age Samman Allowance (Haryana)", "governmentLevel": "state", "state": "Haryana", "ministry": "Government of Haryana", "category": "Pension" },
+  { "id": "hr-saksham", "name": "Saksham Yojana (Haryana)", "governmentLevel": "state", "state": "Haryana", "ministry": "Government of Haryana", "category": "Jobs" },
+
+  { "id": "hp-himcare", "name": "HIMCARE (Himachal Pradesh)", "governmentLevel": "state", "state": "Himachal Pradesh", "ministry": "Government of Himachal Pradesh", "category": "Health" },
+  { "id": "hp-sahara", "name": "Sahara Yojana (Himachal Pradesh)", "governmentLevel": "state", "state": "Himachal Pradesh", "ministry": "Government of Himachal Pradesh", "category": "Health" },
+  { "id": "hp-old-age", "name": "Old Age Pension (Himachal Pradesh)", "governmentLevel": "state", "state": "Himachal Pradesh", "ministry": "Government of Himachal Pradesh", "category": "Pension" },
+
+  { "id": "dl-farishtey", "name": "Farishtey Scheme (Delhi)", "governmentLevel": "state", "state": "Delhi", "ministry": "Government of NCT of Delhi", "category": "Health" },
+  { "id": "dl-aapki-beti", "name": "Aapki Beti Scheme (Delhi)", "governmentLevel": "state", "state": "Delhi", "ministry": "Government of NCT of Delhi", "category": "Women" },
+  { "id": "dl-scholarship", "name": "Delhi Scholarship Schemes", "governmentLevel": "state", "state": "Delhi", "ministry": "Government of NCT of Delhi", "category": "Education" },
+  { "id": "dl-ladli", "name": "Delhi Ladli Scheme", "governmentLevel": "state", "state": "Delhi", "ministry": "Government of NCT of Delhi", "category": "Women" },
+
+  { "id": "ts-dalit-bandhu", "name": "Dalit Bandhu (Telangana)", "governmentLevel": "state", "state": "Telangana", "ministry": "Government of Telangana", "category": "Finance" },
+  { "id": "ts-kalyana-lakshmi", "name": "Kalyana Lakshmi (Telangana)", "governmentLevel": "state", "state": "Telangana", "ministry": "Government of Telangana", "category": "Women" },
+  { "id": "ts-shaadi-mubarak", "name": "Shaadi Mubarak (Telangana)", "governmentLevel": "state", "state": "Telangana", "ministry": "Government of Telangana", "category": "Women" },
+  { "id": "ts-2bhk", "name": "2BHK Housing Scheme (Telangana)", "governmentLevel": "state", "state": "Telangana", "ministry": "Government of Telangana", "category": "Housing" },
+
+  { "id": "ap-ysr-pension", "name": "YSR Pension Kanuka (Andhra Pradesh)", "governmentLevel": "state", "state": "Andhra Pradesh", "ministry": "Government of Andhra Pradesh", "category": "Pension" },
+  { "id": "ap-ysr-cheyutha", "name": "YSR Cheyutha (Andhra Pradesh)", "governmentLevel": "state", "state": "Andhra Pradesh", "ministry": "Government of Andhra Pradesh", "category": "Women" },
+  { "id": "ap-ysr-asara", "name": "YSR Asara (Andhra Pradesh)", "governmentLevel": "state", "state": "Andhra Pradesh", "ministry": "Government of Andhra Pradesh", "category": "Finance" },
+
+  { "id": "mh-phule-jan-arogya", "name": "Mahatma Jyotiba Phule Jan Arogya Yojana (Maharashtra)", "governmentLevel": "state", "state": "Maharashtra", "ministry": "Government of Maharashtra", "category": "Health" },
+  { "id": "mh-mahadbt", "name": "MahaDBT Scholarships (Maharashtra)", "governmentLevel": "state", "state": "Maharashtra", "ministry": "Government of Maharashtra", "category": "Education" },
+  { "id": "mh-shiv-bhojan", "name": "Shiv Bhojan Thali Scheme (Maharashtra)", "governmentLevel": "state", "state": "Maharashtra", "ministry": "Government of Maharashtra", "category": "Food" },
+
+  { "id": "ka-gruha-jyothi", "name": "Gruha Jyothi (Karnataka)", "governmentLevel": "state", "state": "Karnataka", "ministry": "Government of Karnataka", "category": "Finance" },
+  { "id": "ka-ssp-scholarship", "name": "SSP Scholarships (Karnataka)", "governmentLevel": "state", "state": "Karnataka", "ministry": "Government of Karnataka", "category": "Education" },
+  { "id": "ka-sandhya-suraksha", "name": "Sandhya Suraksha Yojana (Karnataka)", "governmentLevel": "state", "state": "Karnataka", "ministry": "Government of Karnataka", "category": "Pension" },
+  { "id": "ka-bhagyalakshmi", "name": "Bhagyalakshmi Scheme (Karnataka)", "governmentLevel": "state", "state": "Karnataka", "ministry": "Government of Karnataka", "category": "Women" },
+
+  { "id": "rj-rajshree", "name": "Mukhyamantri Rajshree Yojana (Rajasthan)", "governmentLevel": "state", "state": "Rajasthan", "ministry": "Government of Rajasthan", "category": "Women" },
+  { "id": "rj-gas-subsidy", "name": "Indira Gandhi Gas Cylinder Subsidy Scheme (Rajasthan)", "governmentLevel": "state", "state": "Rajasthan", "ministry": "Government of Rajasthan", "category": "Health" },
+  { "id": "rj-krishi", "name": "Rajasthan Krishi Vikas Yojana (Rajasthan)", "governmentLevel": "state", "state": "Rajasthan", "ministry": "Government of Rajasthan", "category": "Agriculture" },
+
+  { "id": "gj-mahila-utkarsh", "name": "Mukhyamantri Mahila Utkarsh Yojana (Gujarat)", "governmentLevel": "state", "state": "Gujarat", "ministry": "Government of Gujarat", "category": "Women" },
+  { "id": "gj-namo-tablet", "name": "Namo Tablet Yojana (Gujarat)", "governmentLevel": "state", "state": "Gujarat", "ministry": "Government of Gujarat", "category": "Education" },
+  { "id": "gj-kisan-parivahan", "name": "Gujarat Kisan Parivahan Sahay (Gujarat)", "governmentLevel": "state", "state": "Gujarat", "ministry": "Government of Gujarat", "category": "Agriculture" },
+
+  { "id": "wb-lakshmir-bhandar", "name": "Lakshmir Bhandar (West Bengal)", "governmentLevel": "state", "state": "West Bengal", "ministry": "Government of West Bengal", "category": "Women" },
+  { "id": "wb-duare-sarkar", "name": "Duare Sarkar (West Bengal)", "governmentLevel": "state", "state": "West Bengal", "ministry": "Government of West Bengal", "category": "Jobs" },
+
+  { "id": "od-mamata", "name": "MAMATA Scheme (Odisha)", "governmentLevel": "state", "state": "Odisha", "ministry": "Government of Odisha", "category": "Women" },
+  { "id": "od-balaram", "name": "Balaram Yojana (Odisha)", "governmentLevel": "state", "state": "Odisha", "ministry": "Government of Odisha", "category": "Agriculture" },
+
+  { "id": "ct-godhan-nyay", "name": "Godhan Nyay Yojana (Chhattisgarh)", "governmentLevel": "state", "state": "Chhattisgarh", "ministry": "Government of Chhattisgarh", "category": "Agriculture" },
+  { "id": "ct-kisan-nyay", "name": "Rajiv Gandhi Kisan Nyay Yojana (Chhattisgarh)", "governmentLevel": "state", "state": "Chhattisgarh", "ministry": "Government of Chhattisgarh", "category": "Agriculture" },
+  { "id": "ct-aatmanand", "name": "Swami Atmanand Excellent English Medium Schools (Chhattisgarh)", "governmentLevel": "state", "state": "Chhattisgarh", "ministry": "Government of Chhattisgarh", "category": "Education" },
+
+  { "id": "kl-social-pension", "name": "Kerala Social Security Pension Schemes", "governmentLevel": "state", "state": "Kerala", "ministry": "Government of Kerala", "category": "Pension" },
+  { "id": "kl-karunya-bf", "name": "Karunya Benevolent Fund (Kerala)", "governmentLevel": "state", "state": "Kerala", "ministry": "Government of Kerala", "category": "Health" },
+
+  { "id": "pb-old-age", "name": "Old Age Pension (Punjab)", "governmentLevel": "state", "state": "Punjab", "ministry": "Government of Punjab", "category": "Pension" },
+  { "id": "pb-post-matric", "name": "Post Matric Scholarship (Punjab)", "governmentLevel": "state", "state": "Punjab", "ministry": "Government of Punjab", "category": "Education" },
+
+  { "id": "as-abhinandan", "name": "Abhinandan Education Loan Subsidy Scheme (Assam)", "governmentLevel": "state", "state": "Assam", "ministry": "Government of Assam", "category": "Education" },
+  { "id": "as-mukhya-mantri-micro", "name": "Assam Microfinance Relief Measures", "governmentLevel": "state", "state": "Assam", "ministry": "Government of Assam", "category": "Finance" },
+
+  { "id": "ut-scholarship", "name": "Uttarakhand Scholarship Schemes", "governmentLevel": "state", "state": "Uttarakhand", "ministry": "Government of Uttarakhand", "category": "Education" },
+  { "id": "ut-health", "name": "Uttarakhand Health Scheme", "governmentLevel": "state", "state": "Uttarakhand", "ministry": "Government of Uttarakhand", "category": "Health" },
+
+  { "id": "goa-ddu", "name": "Dayanand Social Security Scheme (Goa)", "governmentLevel": "state", "state": "Goa", "ministry": "Government of Goa", "category": "Pension" },
+  { "id": "goa-scholarship", "name": "Goa Scholarship Schemes", "governmentLevel": "state", "state": "Goa", "ministry": "Government of Goa", "category": "Education" },
+
+  { "id": "jk-scholarship", "name": "Jammu & Kashmir Scholarship Schemes", "governmentLevel": "state", "state": "Jammu and Kashmir", "ministry": "Government of Jammu & Kashmir", "category": "Education" },
+  { "id": "jk-health", "name": "J&K Health Scheme", "governmentLevel": "state", "state": "Jammu and Kashmir", "ministry": "Government of Jammu & Kashmir", "category": "Health" },
+
+  { "id": "py-scholarship", "name": "Puducherry Scholarship Schemes", "governmentLevel": "state", "state": "Puducherry", "ministry": "Government of Puducherry", "category": "Education" },
+  { "id": "py-housing", "name": "Puducherry Housing Scheme", "governmentLevel": "state", "state": "Puducherry", "ministry": "Government of Puducherry", "category": "Housing" },
+
+  { "id": "od-madhu-babu-pension", "name": "Madhu Babu Pension Yojana (Odisha)", "governmentLevel": "state", "state": "Odisha", "ministry": "Government of Odisha", "category": "Pension" },
+  { "id": "jh-abua-awas", "name": "Abua Awas Yojana (Jharkhand)", "governmentLevel": "state", "state": "Jharkhand", "ministry": "Government of Jharkhand", "category": "Housing" },
+  { "id": "wb-sabooj-sathi", "name": "Sabooj Sathi (West Bengal)", "governmentLevel": "state", "state": "West Bengal", "ministry": "Government of West Bengal", "category": "Education" },
+  { "id": "br-har-ghar-nal", "name": "Har Ghar Nal Ka Jal (Bihar)", "governmentLevel": "state", "state": "Bihar", "ministry": "Government of Bihar", "category": "Health" },
+  { "id": "up-odop", "name": "One District One Product (Uttar Pradesh)", "governmentLevel": "state", "state": "Uttar Pradesh", "ministry": "Government of Uttar Pradesh", "category": "MSME" },
+  { "id": "mp-ladli-behna", "name": "Ladli Behna Yojana (Madhya Pradesh)", "governmentLevel": "state", "state": "Madhya Pradesh", "ministry": "Government of Madhya Pradesh", "category": "Women" },
+  { "id": "ka-krishi-bhagya", "name": "Krishi Bhagya (Karnataka)", "governmentLevel": "state", "state": "Karnataka", "ministry": "Government of Karnataka", "category": "Agriculture" },
+  { "id": "tn-makkalai-thedi", "name": "Makkalai Thedi Maruthuvam (Tamil Nadu)", "governmentLevel": "state", "state": "Tamil Nadu", "ministry": "Government of Tamil Nadu", "category": "Health" },
+  { "id": "mh-majhi-kanya", "name": "Majhi Kanya Bhagyashree Scheme (Maharashtra)", "governmentLevel": "state", "state": "Maharashtra", "ministry": "Government of Maharashtra", "category": "Women" },
+  { "id": "gj-kisan-suryoday", "name": "Kisan Suryoday Yojana (Gujarat)", "governmentLevel": "state", "state": "Gujarat", "ministry": "Government of Gujarat", "category": "Agriculture" },
+  { "id": "pb-shagun", "name": "Punjab Shagun Scheme", "governmentLevel": "state", "state": "Punjab", "ministry": "Government of Punjab", "category": "Women" },
+  { "id": "as-kanyadan", "name": "Assam Kanyadan Scheme", "governmentLevel": "state", "state": "Assam", "ministry": "Government of Assam", "category": "Women" }
+]

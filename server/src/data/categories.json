@@ -1,0 +1,18 @@
+[
+  { "slug": "agriculture", "name": "Agriculture" },
+  { "slug": "housing", "name": "Housing" },
+  { "slug": "solar", "name": "Solar" },
+  { "slug": "health", "name": "Health" },
+  { "slug": "education", "name": "Education" },
+  { "slug": "women", "name": "Women" },
+  { "slug": "msme", "name": "MSME" },
+  { "slug": "skill", "name": "Skill" },
+  { "slug": "finance", "name": "Finance" },
+  { "slug": "food", "name": "Food" },
+  { "slug": "sc-st-obc", "name": "SC/ST/OBC" },
+  { "slug": "disability", "name": "Disability" },
+  { "slug": "senior", "name": "Senior Citizens" },
+  { "slug": "jobs", "name": "Jobs" },
+  { "slug": "pension", "name": "Pension" }
+]
+

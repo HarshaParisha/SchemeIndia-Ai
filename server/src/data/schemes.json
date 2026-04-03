@@ -1,0 +1,1075 @@
+[
+  {
+    "id": "pm-scholarship-capf",
+    "name": "Prime Minister's Scholarship Scheme for CAPFs and Assam Rifles",
+    "ministry": "Ministry of Home Affairs",
+    "state": null,
+    "category": "Education",
+    "description": "Scholarships for dependents/widows of CAPFs and Assam Rifles personnel for professional and technical courses.",
+    "benefit": "Annual scholarship support for eligible students in professional degrees.",
+    "eligibility": {
+      "minAge": 16,
+      "maxAge": 28,
+      "maxIncome": null,
+      "gender": null,
+      "casteCategory": null,
+      "states": null,
+      "userType": [
+        "Student"
+      ]
+    },
+    "documents": [
+      "ID proof",
+      "Service certificate",
+      "Admission proof",
+      "Bank details"
+    ],
+    "applicationSteps": [
+      "Check eligibility",
+      "Apply through official portal",
+      "Upload documents",
+      "Track status"
+    ],
+    "officialLink": "https://scholarships.gov.in/",
+    "deadline": null
+  },
+  {
+    "id": "nmms",
+    "name": "National Means-cum-Merit Scholarship (NMMS)",
+    "ministry": "Department of School Education & Literacy",
+    "state": null,
+    "category": "Education",
+    "description": "Scholarship to support meritorious students from economically weaker sections to reduce dropouts.",
+    "benefit": "Annual scholarship for selected students in secondary education.",
+    "eligibility": {
+      "minAge": 12,
+      "maxAge": 18,
+      "maxIncome": 300000,
+      "gender": null,
+      "casteCategory": null,
+      "states": null,
+      "userType": [
+        "Student"
+      ]
+    },
+    "documents": [
+      "Income certificate",
+      "School certificate",
+      "ID proof",
+      "Bank details"
+    ],
+    "applicationSteps": [
+      "Confirm state NMMS process",
+      "Submit application",
+      "Appear for exam",
+      "Complete verification"
+    ],
+    "officialLink": "https://scholarships.gov.in/",
+    "deadline": null
+  },
+  {
+    "id": "post-matric-sc",
+    "name": "Post-Matric Scholarship for SC Students",
+    "ministry": "Ministry of Social Justice and Empowerment",
+    "state": null,
+    "category": "Education",
+    "description": "Financial assistance for SC students pursuing post-matric education.",
+    "benefit": "Covers tuition fees and maintenance allowance (as per rules).",
+    "eligibility": {
+      "minAge": 15,
+      "maxAge": 35,
+      "maxIncome": 250000,
+      "gender": null,
+      "casteCategory": [
+        "SC"
+      ],
+      "states": null,
+      "userType": [
+        "Student"
+      ]
+    },
+    "documents": [
+      "Caste certificate",
+      "Income certificate",
+      "Admission proof",
+      "Bank details"
+    ],
+    "applicationSteps": [
+      "Register on NSP",
+      "Fill application",
+      "Upload documents",
+      "Submit and track"
+    ],
+    "officialLink": "https://scholarships.gov.in/",
+    "deadline": null
+  },
+  {
+    "id": "pm-kisan",
+    "name": "PM-Kisan Samman Nidhi",
+    "ministry": "Ministry of Agriculture & Farmers Welfare",
+    "state": null,
+    "category": "Agriculture",
+    "description": "Income support to eligible farmer families.",
+    "benefit": "Income support in installments per year.",
+    "eligibility": {
+      "minAge": 18,
+      "maxAge": null,
+      "maxIncome": null,
+      "gender": null,
+      "casteCategory": null,
+      "states": null,
+      "userType": [
+        "Farmer"
+      ]
+    },
+    "documents": [
+      "Land records",
+      "Aadhaar",
+      "Bank account"
+    ],
+    "applicationSteps": [
+      "Verify land records",
+      "Apply online/CSC",
+      "Complete eKYC",
+      "Check beneficiary status"
+    ],
+    "officialLink": "https://pmkisan.gov.in/",
+    "deadline": null
+  },
+  {
+    "id": "pmfby",
+    "name": "Pradhan Mantri Fasal Bima Yojana (PMFBY)",
+    "ministry": "Ministry of Agriculture & Farmers Welfare",
+    "state": null,
+    "category": "Agriculture",
+    "description": "Crop insurance scheme providing financial support to farmers in case of crop loss.",
+    "benefit": "Insurance coverage against crop loss due to natural calamities.",
+    "eligibility": {
+      "minAge": 18,
+      "maxAge": null,
+      "maxIncome": null,
+      "gender": null,
+      "casteCategory": null,
+      "states": null,
+      "userType": [
+        "Farmer"
+      ]
+    },
+    "documents": [
+      "Land records",
+      "Sowing declaration",
+      "Bank account",
+      "Aadhaar"
+    ],
+    "applicationSteps": [
+      "Check seasonal enrollment window",
+      "Enroll via bank/CSC/portal",
+      "Pay premium",
+      "Track claim if needed"
+    ],
+    "officialLink": "https://pmfby.gov.in/",
+    "deadline": null
+  },
+  {
+    "id": "ssy",
+    "name": "Sukanya Samriddhi Yojana",
+    "ministry": "Ministry of Finance",
+    "state": null,
+    "category": "Women",
+    "description": "Small savings scheme for the girl child.",
+    "benefit": "Tax benefits and attractive interest rate on deposits.",
+    "eligibility": {
+      "minAge": 0,
+      "maxAge": 10,
+      "maxIncome": null,
+      "gender": [
+        "Female"
+      ],
+      "casteCategory": null,
+      "states": null,
+      "userType": [
+        "Other",
+        "Working Professional",
+        "Student",
+        "Farmer"
+      ]
+    },
+    "documents": [
+      "Birth certificate",
+      "Guardian ID",
+      "Address proof"
+    ],
+    "applicationSteps": [
+      "Visit post office/bank",
+      "Submit KYC",
+      "Open account",
+      "Deposit as per plan"
+    ],
+    "officialLink": "https://www.india.gov.in/spotlight/sukanya-samriddhi-yojana",
+    "deadline": null
+  },
+  {
+    "id": "pmjdy",
+    "name": "Pradhan Mantri Jan Dhan Yojana (PMJDY)",
+    "ministry": "Ministry of Finance",
+    "state": null,
+    "category": "Business",
+    "description": "Financial inclusion program to ensure access to financial services.",
+    "benefit": "Basic bank account with RuPay card and insurance benefits.",
+    "eligibility": {
+      "minAge": 10,
+      "maxAge": null,
+      "maxIncome": null,
+      "gender": null,
+      "casteCategory": null,
+      "states": null,
+      "userType": [
+        "Other",
+        "Working Professional",
+        "Student",
+        "Farmer"
+      ]
+    },
+    "documents": [
+      "Aadhaar",
+      "PAN (optional)",
+      "Address proof"
+    ],
+    "applicationSteps": [
+      "Visit bank/BC",
+      "Complete KYC",
+      "Open account",
+      "Activate RuPay card"
+    ],
+    "officialLink": "https://pmjdy.gov.in/",
+    "deadline": null
+  },
+  {
+    "id": "pmjay",
+    "name": "Ayushman Bharat PM-JAY",
+    "ministry": "Ministry of Health and Family Welfare",
+    "state": null,
+    "category": "Health",
+    "description": "Health insurance coverage for eligible families.",
+    "benefit": "Health cover up to a defined amount per family per year.",
+    "eligibility": {
+      "minAge": 0,
+      "maxAge": null,
+      "maxIncome": null,
+      "gender": null,
+      "casteCategory": null,
+      "states": null,
+      "userType": [
+        "Other",
+        "Working Professional",
+        "Student",
+        "Farmer"
+      ]
+    },
+    "documents": [
+      "Ration card/SECC details",
+      "Aadhaar"
+    ],
+    "applicationSteps": [
+      "Check eligibility on portal",
+      "Visit CSC for verification",
+      "Get e-card",
+      "Use at empaneled hospital"
+    ],
+    "officialLink": "https://pmjay.gov.in/",
+    "deadline": null
+  },
+  {
+    "id": "pmay-urban",
+    "name": "Pradhan Mantri Awas Yojana (Urban)",
+    "ministry": "Ministry of Housing and Urban Affairs",
+    "state": null,
+    "category": "Housing",
+    "description": "Housing for all in urban areas through subsidies and assistance.",
+    "benefit": "Interest subsidy/assistance for eligible beneficiaries.",
+    "eligibility": {
+      "minAge": 18,
+      "maxAge": null,
+      "maxIncome": 1800000,
+      "gender": null,
+      "casteCategory": null,
+      "states": null,
+      "userType": [
+        "Other",
+        "Working Professional",
+        "Farmer"
+      ]
+    },
+    "documents": [
+      "Income proof",
+      "Aadhaar",
+      "Property documents",
+      "Bank details"
+    ],
+    "applicationSteps": [
+      "Check eligibility",
+      "Apply via PMAY portal/ULB",
+      "Submit documents",
+      "Track application"
+    ],
+    "officialLink": "https://pmaymis.gov.in/",
+    "deadline": null
+  },
+  {
+    "id": "pmay-rural",
+    "name": "Pradhan Mantri Awas Yojana (Gramin)",
+    "ministry": "Ministry of Rural Development",
+    "state": null,
+    "category": "Housing",
+    "description": "Housing assistance for rural households.",
+    "benefit": "Financial assistance for house construction.",
+    "eligibility": {
+      "minAge": 18,
+      "maxAge": null,
+      "maxIncome": null,
+      "gender": null,
+      "casteCategory": null,
+      "states": null,
+      "userType": [
+        "Farmer",
+        "Other"
+      ]
+    },
+    "documents": [
+      "SECC/Gram Panchayat verification",
+      "Aadhaar",
+      "Bank account"
+    ],
+    "applicationSteps": [
+      "Verify beneficiary list",
+      "Complete verification",
+      "Receive installments",
+      "Build as per guidelines"
+    ],
+    "officialLink": "https://pmayg.nic.in/",
+    "deadline": null
+  },
+  {
+    "id": "standup-india",
+    "name": "Stand Up India Scheme",
+    "ministry": "Ministry of Finance",
+    "state": null,
+    "category": "Business",
+    "description": "Facilitates bank loans for SC/ST and women entrepreneurs.",
+    "benefit": "Bank loans for greenfield enterprises.",
+    "eligibility": {
+      "minAge": 18,
+      "maxAge": null,
+      "maxIncome": null,
+      "gender": [
+        "Female"
+      ],
+      "casteCategory": [
+        "SC",
+        "ST"
+      ],
+      "states": null,
+      "userType": [
+        "Other",
+        "Working Professional"
+      ]
+    },
+    "documents": [
+      "Business plan",
+      "ID proof",
+      "Caste/Gender proof",
+      "Bank details"
+    ],
+    "applicationSteps": [
+      "Prepare business plan",
+      "Apply via portal",
+      "Bank appraisal",
+      "Disbursement"
+    ],
+    "officialLink": "https://www.standupmitra.in/",
+    "deadline": null
+  },
+  {
+    "id": "pm-mudra",
+    "name": "Pradhan Mantri Mudra Yojana (PMMY)",
+    "ministry": "Ministry of Finance",
+    "state": null,
+    "category": "Business",
+    "description": "Loans for micro and small businesses.",
+    "benefit": "Collateral-free loans under Shishu/Kishore/Tarun categories.",
+    "eligibility": {
+      "minAge": 18,
+      "maxAge": null,
+      "maxIncome": null,
+      "gender": null,
+      "casteCategory": null,
+      "states": null,
+      "userType": [
+        "Other",
+        "Working Professional",
+        "Farmer"
+      ]
+    },
+    "documents": [
+      "Business details",
+      "KYC",
+      "Bank statements"
+    ],
+    "applicationSteps": [
+      "Choose loan category",
+      "Apply at bank/NBFC",
+      "Submit documents",
+      "Track approval"
+    ],
+    "officialLink": "https://www.mudra.org.in/",
+    "deadline": null
+  },
+  {
+    "id": "telangana-ts-epass",
+    "name": "Telangana TS ePass Scholarship",
+    "ministry": "Government of Telangana",
+    "state": "Telangana",
+    "category": "Education",
+    "description": "Scholarships for eligible students in Telangana through ePass.",
+    "benefit": "Fee reimbursement and maintenance allowance.",
+    "eligibility": {
+      "minAge": 15,
+      "maxAge": 35,
+      "maxIncome": 200000,
+      "gender": null,
+      "casteCategory": [
+        "SC",
+        "ST",
+        "OBC"
+      ],
+      "states": [
+        "Telangana"
+      ],
+      "userType": [
+        "Student"
+      ]
+    },
+    "documents": [
+      "Caste certificate",
+      "Income certificate",
+      "Bonafide",
+      "Aadhaar"
+    ],
+    "applicationSteps": [
+      "Register on ePass",
+      "Fill details",
+      "Upload documents",
+      "Submit"
+    ],
+    "officialLink": "https://telanganaepass.cgg.gov.in/",
+    "deadline": null
+  },
+  {
+    "id": "karnataka-sandhya-suraksha",
+    "name": "Karnataka Sandhya Suraksha Yojana",
+    "ministry": "Government of Karnataka",
+    "state": "Karnataka",
+    "category": "Health",
+    "description": "Pension support for senior citizens in Karnataka.",
+    "benefit": "Monthly pension support.",
+    "eligibility": {
+      "minAge": 60,
+      "maxAge": null,
+      "maxIncome": null,
+      "gender": null,
+      "casteCategory": null,
+      "states": [
+        "Karnataka"
+      ],
+      "userType": [
+        "Other"
+      ]
+    },
+    "documents": [
+      "Age proof",
+      "Residence proof",
+      "Bank details"
+    ],
+    "applicationSteps": [
+      "Apply at local office",
+      "Submit documents",
+      "Verification",
+      "Receive benefits"
+    ],
+    "officialLink": "https://sevasindhu.karnataka.gov.in/",
+    "deadline": null
+  },
+  {
+    "id": "maharashtra-ramai-awas",
+    "name": "Maharashtra Ramai Awas Yojana",
+    "ministry": "Government of Maharashtra",
+    "state": "Maharashtra",
+    "category": "Housing",
+    "description": "Housing scheme for eligible beneficiaries in Maharashtra.",
+    "benefit": "Assistance for house construction/upgrade.",
+    "eligibility": {
+      "minAge": 18,
+      "maxAge": null,
+      "maxIncome": null,
+      "gender": null,
+      "casteCategory": [
+        "SC"
+      ],
+      "states": [
+        "Maharashtra"
+      ],
+      "userType": [
+        "Other",
+        "Farmer"
+      ]
+    },
+    "documents": [
+      "Caste certificate",
+      "Residence proof",
+      "Income proof",
+      "Bank details"
+    ],
+    "applicationSteps": [
+      "Apply via local body",
+      "Submit documents",
+      "Verification",
+      "Receive assistance"
+    ],
+    "officialLink": "https://maharashtra.gov.in/",
+    "deadline": null
+  },
+  {
+    "id": "nsp-general",
+    "name": "National Scholarship Portal (General Scholarships)",
+    "ministry": "Government of India",
+    "state": null,
+    "category": "Education",
+    "description": "A single portal hosting multiple central and state scholarship schemes.",
+    "benefit": "Varies by scheme; may include fee reimbursement and maintenance support.",
+    "eligibility": {
+      "minAge": 10,
+      "maxAge": 35,
+      "maxIncome": null,
+      "gender": null,
+      "casteCategory": null,
+      "states": null,
+      "userType": [
+        "Student"
+      ]
+    },
+    "documents": [
+      "KYC",
+      "Academic records",
+      "Income certificate",
+      "Bank details"
+    ],
+    "applicationSteps": [
+      "Browse schemes",
+      "Register/login",
+      "Apply with documents",
+      "Track status"
+    ],
+    "officialLink": "https://scholarships.gov.in/",
+    "deadline": null
+  },
+  {
+    "id": "kcc",
+    "name": "Kisan Credit Card (KCC)",
+    "ministry": "Department of Financial Services",
+    "state": null,
+    "category": "Agriculture",
+    "description": "Credit support for farmers for cultivation and allied activities.",
+    "benefit": "Short-term credit at concessional interest (as applicable).",
+    "eligibility": {
+      "minAge": 18,
+      "maxAge": null,
+      "maxIncome": null,
+      "gender": null,
+      "casteCategory": null,
+      "states": null,
+      "userType": [
+        "Farmer"
+      ]
+    },
+    "documents": [
+      "Aadhaar",
+      "Land records",
+      "Bank account"
+    ],
+    "applicationSteps": [
+      "Visit bank/CSC",
+      "Submit KYC and land details",
+      "Bank verification",
+      "Card issuance"
+    ],
+    "officialLink": "https://www.india.gov.in/spotlight/kisan-credit-card-scheme",
+    "deadline": null
+  },
+  {
+    "id": "pmuy",
+    "name": "Pradhan Mantri Ujjwala Yojana (PMUY)",
+    "ministry": "Ministry of Petroleum and Natural Gas",
+    "state": null,
+    "category": "Health",
+    "description": "Provides LPG connections to eligible households.",
+    "benefit": "Subsidized LPG connection support.",
+    "eligibility": {
+      "minAge": 18,
+      "maxAge": null,
+      "maxIncome": null,
+      "gender": null,
+      "casteCategory": null,
+      "states": null,
+      "userType": null
+    },
+    "documents": [
+      "Aadhaar",
+      "Ration card",
+      "Address proof"
+    ],
+    "applicationSteps": [
+      "Check eligibility",
+      "Apply at distributor/portal",
+      "Verification",
+      "Connection issued"
+    ],
+    "officialLink": "https://www.pmuy.gov.in/",
+    "deadline": null
+  },
+  {
+    "id": "pmegp",
+    "name": "Prime Minister’s Employment Generation Programme (PMEGP)",
+    "ministry": "Ministry of Micro, Small and Medium Enterprises",
+    "state": null,
+    "category": "Business",
+    "description": "Credit-linked subsidy program for setting up micro enterprises.",
+    "benefit": "Subsidy on bank loan for eligible applicants.",
+    "eligibility": {
+      "minAge": 18,
+      "maxAge": null,
+      "maxIncome": null,
+      "gender": null,
+      "casteCategory": null,
+      "states": null,
+      "userType": null
+    },
+    "documents": [
+      "KYC",
+      "Project report",
+      "Bank details"
+    ],
+    "applicationSteps": [
+      "Register",
+      "Submit application",
+      "Bank appraisal",
+      "Training and subsidy release"
+    ],
+    "officialLink": "https://www.kviconline.gov.in/pmegpeportal/",
+    "deadline": null
+  },
+  {
+    "id": "seed-1",
+    "name": "Additional Scheme 1",
+    "ministry": "Government of India",
+    "state": null,
+    "category": "Health",
+    "description": "Seeded scheme entry to expand the local dataset. Replace with more verified schemes over time.",
+    "benefit": "Benefit varies; see official portal for details.",
+    "eligibility": {
+      "minAge": 0,
+      "maxAge": null,
+      "maxIncome": null,
+      "gender": null,
+      "casteCategory": null,
+      "states": null,
+      "userType": null
+    },
+    "documents": [
+      "KYC"
+    ],
+    "applicationSteps": [
+      "Visit official portal",
+      "Apply with documents"
+    ],
+    "officialLink": "https://www.india.gov.in/",
+    "deadline": null
+  },
+  {
+    "id": "seed-2",
+    "name": "Additional Scheme 2",
+    "ministry": "Government of India",
+    "state": null,
+    "category": "Education",
+    "description": "Seeded scheme entry to expand the local dataset. Replace with more verified schemes over time.",
+    "benefit": "Benefit varies; see official portal for details.",
+    "eligibility": {
+      "minAge": 0,
+      "maxAge": null,
+      "maxIncome": null,
+      "gender": null,
+      "casteCategory": null,
+      "states": null,
+      "userType": null
+    },
+    "documents": [
+      "KYC"
+    ],
+    "applicationSteps": [
+      "Visit official portal",
+      "Apply with documents"
+    ],
+    "officialLink": "https://www.india.gov.in/",
+    "deadline": null
+  },
+  {
+    "id": "seed-3",
+    "name": "Additional Scheme 3",
+    "ministry": "Government of India",
+    "state": null,
+    "category": "Health",
+    "description": "Seeded scheme entry to expand the local dataset. Replace with more verified schemes over time.",
+    "benefit": "Benefit varies; see official portal for details.",
+    "eligibility": {
+      "minAge": 0,
+      "maxAge": null,
+      "maxIncome": null,
+      "gender": null,
+      "casteCategory": null,
+      "states": null,
+      "userType": null
+    },
+    "documents": [
+      "KYC"
+    ],
+    "applicationSteps": [
+      "Visit official portal",
+      "Apply with documents"
+    ],
+    "officialLink": "https://www.india.gov.in/",
+    "deadline": null
+  },
+  {
+    "id": "seed-4",
+    "name": "Additional Scheme 4",
+    "ministry": "Government of India",
+    "state": null,
+    "category": "Education",
+    "description": "Seeded scheme entry to expand the local dataset. Replace with more verified schemes over time.",
+    "benefit": "Benefit varies; see official portal for details.",
+    "eligibility": {
+      "minAge": 0,
+      "maxAge": null,
+      "maxIncome": null,
+      "gender": null,
+      "casteCategory": null,
+      "states": null,
+      "userType": null
+    },
+    "documents": [
+      "KYC"
+    ],
+    "applicationSteps": [
+      "Visit official portal",
+      "Apply with documents"
+    ],
+    "officialLink": "https://www.india.gov.in/",
+    "deadline": null
+  },
+  {
+    "id": "seed-5",
+    "name": "Additional Scheme 5",
+    "ministry": "Government of India",
+    "state": null,
+    "category": "Health",
+    "description": "Seeded scheme entry to expand the local dataset. Replace with more verified schemes over time.",
+    "benefit": "Benefit varies; see official portal for details.",
+    "eligibility": {
+      "minAge": 0,
+      "maxAge": null,
+      "maxIncome": null,
+      "gender": null,
+      "casteCategory": null,
+      "states": null,
+      "userType": null
+    },
+    "documents": [
+      "KYC"
+    ],
+    "applicationSteps": [
+      "Visit official portal",
+      "Apply with documents"
+    ],
+    "officialLink": "https://www.india.gov.in/",
+    "deadline": null
+  },
+  {
+    "id": "seed-6",
+    "name": "Additional Scheme 6",
+    "ministry": "Government of India",
+    "state": null,
+    "category": "Education",
+    "description": "Seeded scheme entry to expand the local dataset. Replace with more verified schemes over time.",
+    "benefit": "Benefit varies; see official portal for details.",
+    "eligibility": {
+      "minAge": 0,
+      "maxAge": null,
+      "maxIncome": null,
+      "gender": null,
+      "casteCategory": null,
+      "states": null,
+      "userType": null
+    },
+    "documents": [
+      "KYC"
+    ],
+    "applicationSteps": [
+      "Visit official portal",
+      "Apply with documents"
+    ],
+    "officialLink": "https://www.india.gov.in/",
+    "deadline": null
+  },
+  {
+    "id": "seed-7",
+    "name": "Additional Scheme 7",
+    "ministry": "Government of India",
+    "state": null,
+    "category": "Health",
+    "description": "Seeded scheme entry to expand the local dataset. Replace with more verified schemes over time.",
+    "benefit": "Benefit varies; see official portal for details.",
+    "eligibility": {
+      "minAge": 0,
+      "maxAge": null,
+      "maxIncome": null,
+      "gender": null,
+      "casteCategory": null,
+      "states": null,
+      "userType": null
+    },
+    "documents": [
+      "KYC"
+    ],
+    "applicationSteps": [
+      "Visit official portal",
+      "Apply with documents"
+    ],
+    "officialLink": "https://www.india.gov.in/",
+    "deadline": null
+  },
+  {
+    "id": "seed-8",
+    "name": "Additional Scheme 8",
+    "ministry": "Government of India",
+    "state": null,
+    "category": "Education",
+    "description": "Seeded scheme entry to expand the local dataset. Replace with more verified schemes over time.",
+    "benefit": "Benefit varies; see official portal for details.",
+    "eligibility": {
+      "minAge": 0,
+      "maxAge": null,
+      "maxIncome": null,
+      "gender": null,
+      "casteCategory": null,
+      "states": null,
+      "userType": null
+    },
+    "documents": [
+      "KYC"
+    ],
+    "applicationSteps": [
+      "Visit official portal",
+      "Apply with documents"
+    ],
+    "officialLink": "https://www.india.gov.in/",
+    "deadline": null
+  },
+  {
+    "id": "seed-9",
+    "name": "Additional Scheme 9",
+    "ministry": "Government of India",
+    "state": null,
+    "category": "Health",
+    "description": "Seeded scheme entry to expand the local dataset. Replace with more verified schemes over time.",
+    "benefit": "Benefit varies; see official portal for details.",
+    "eligibility": {
+      "minAge": 0,
+      "maxAge": null,
+      "maxIncome": null,
+      "gender": null,
+      "casteCategory": null,
+      "states": null,
+      "userType": null
+    },
+    "documents": [
+      "KYC"
+    ],
+    "applicationSteps": [
+      "Visit official portal",
+      "Apply with documents"
+    ],
+    "officialLink": "https://www.india.gov.in/",
+    "deadline": null
+  },
+  {
+    "id": "seed-10",
+    "name": "Additional Scheme 10",
+    "ministry": "Government of India",
+    "state": null,
+    "category": "Education",
+    "description": "Seeded scheme entry to expand the local dataset. Replace with more verified schemes over time.",
+    "benefit": "Benefit varies; see official portal for details.",
+    "eligibility": {
+      "minAge": 0,
+      "maxAge": null,
+      "maxIncome": null,
+      "gender": null,
+      "casteCategory": null,
+      "states": null,
+      "userType": null
+    },
+    "documents": [
+      "KYC"
+    ],
+    "applicationSteps": [
+      "Visit official portal",
+      "Apply with documents"
+    ],
+    "officialLink": "https://www.india.gov.in/",
+    "deadline": null
+  },
+  {
+    "id": "seed-11",
+    "name": "Additional Scheme 11",
+    "ministry": "Government of India",
+    "state": null,
+    "category": "Health",
+    "description": "Seeded scheme entry to expand the local dataset. Replace with more verified schemes over time.",
+    "benefit": "Benefit varies; see official portal for details.",
+    "eligibility": {
+      "minAge": 0,
+      "maxAge": null,
+      "maxIncome": null,
+      "gender": null,
+      "casteCategory": null,
+      "states": null,
+      "userType": null
+    },
+    "documents": [
+      "KYC"
+    ],
+    "applicationSteps": [
+      "Visit official portal",
+      "Apply with documents"
+    ],
+    "officialLink": "https://www.india.gov.in/",
+    "deadline": null
+  },
+  {
+    "id": "seed-12",
+    "name": "Additional Scheme 12",
+    "ministry": "Government of India",
+    "state": null,
+    "category": "Education",
+    "description": "Seeded scheme entry to expand the local dataset. Replace with more verified schemes over time.",
+    "benefit": "Benefit varies; see official portal for details.",
+    "eligibility": {
+      "minAge": 0,
+      "maxAge": null,
+      "maxIncome": null,
+      "gender": null,
+      "casteCategory": null,
+      "states": null,
+      "userType": null
+    },
+    "documents": [
+      "KYC"
+    ],
+    "applicationSteps": [
+      "Visit official portal",
+      "Apply with documents"
+    ],
+    "officialLink": "https://www.india.gov.in/",
+    "deadline": null
+  },
+  {
+    "id": "seed-13",
+    "name": "Additional Scheme 13",
+    "ministry": "Government of India",
+    "state": null,
+    "category": "Health",
+    "description": "Seeded scheme entry to expand the local dataset. Replace with more verified schemes over time.",
+    "benefit": "Benefit varies; see official portal for details.",
+    "eligibility": {
+      "minAge": 0,
+      "maxAge": null,
+      "maxIncome": null,
+      "gender": null,
+      "casteCategory": null,
+      "states": null,
+      "userType": null
+    },
+    "documents": [
+      "KYC"
+    ],
+    "applicationSteps": [
+      "Visit official portal",
+      "Apply with documents"
+    ],
+    "officialLink": "https://www.india.gov.in/",
+    "deadline": null
+  },
+  {
+    "id": "seed-14",
+    "name": "Additional Scheme 14",
+    "ministry": "Government of India",
+    "state": null,
+    "category": "Education",
+    "description": "Seeded scheme entry to expand the local dataset. Replace with more verified schemes over time.",
+    "benefit": "Benefit varies; see official portal for details.",
+    "eligibility": {
+      "minAge": 0,
+      "maxAge": null,
+      "maxIncome": null,
+      "gender": null,
+      "casteCategory": null,
+      "states": null,
+      "userType": null
+    },
+    "documents": [
+      "KYC"
+    ],
+    "applicationSteps": [
+      "Visit official portal",
+      "Apply with documents"
+    ],
+    "officialLink": "https://www.india.gov.in/",
+    "deadline": null
+  },
+  {
+    "id": "seed-15",
+    "name": "Additional Scheme 15",
+    "ministry": "Government of India",
+    "state": null,
+    "category": "Health",
+    "description": "Seeded scheme entry to expand the local dataset. Replace with more verified schemes over time.",
+    "benefit": "Benefit varies; see official portal for details.",
+    "eligibility": {
+      "minAge": 0,
+      "maxAge": null,
+      "maxIncome": null,
+      "gender": null,
+      "casteCategory": null,
+      "states": null,
+      "userType": null
+    },
+    "documents": [
+      "KYC"
+    ],
+    "applicationSteps": [
+      "Visit official portal",
+      "Apply with documents"
+    ],
+    "officialLink": "https://www.india.gov.in/",
+    "deadline": null
+  }
+]
